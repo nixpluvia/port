@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 40">
+    <style>
+        .arrow-right {
+            fill: #2d2924;
+        }
+    </style>
+    <polygon class="arrow-right" points="0 36 16 20 0 4 4 0 24 20 4 40 0 36" />
+</svg>
